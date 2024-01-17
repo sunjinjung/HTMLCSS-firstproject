@@ -1,0 +1,13 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.main-img{
+    position: relative;
+    left: 100px;
+}
+.main-img-2{
+    position: absolute;
+    right: 10px;
+}
