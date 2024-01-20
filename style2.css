@@ -8,7 +8,7 @@ a {
 }
 
 .f_nav-top {
-    padding-top: 23px;
+    padding-top: 20px;
 }
 
 .f_btn1 {
@@ -47,12 +47,14 @@ a {
     justify-content: space-around;
 }
 
-.f-search {
+.f_search {
     width: 390px;
     height: 34px;
-    margin-top: 0;
-    border: none;
     border-bottom: 2px solid #046fd9;
+    margin-top: 0;
+    position: relative;
+    left: 75px;
+    top: 9px;
 }
 
 .f_ul2 {
@@ -68,7 +70,6 @@ a {
 .f_menu {
     height: 56px;
     background: #046fd9;
-    padding-left: 137px;
 }
 
 .f_m {
@@ -81,12 +82,11 @@ a {
     min-width: 30px;
     height: 53px;
     line-height: 55px;
-    font-weight: bold;
+    font-weight: 600;
     vertical-align: top;
     text-align: center;
     font-size: 16px;
     letter-spacing: -0.04em;
-    
 }
 
 .f_menu-a:hover {
@@ -96,7 +96,7 @@ a {
 .f_nav-cont2 {
     display: flex;
     justify-content: space-around;
-    padding-bottom: 20px;
+    padding-bottom: 17px;
 }
 
 .f_bd1 {
@@ -161,17 +161,89 @@ a {
 }
 
 .f_nav-btn1 {
-    padding-right: 300px;
+    position: relative;
+    right: 95px;
 }
 
 .f_nav-btn2 {
-    margin-right: 100px;
+    position: relative;
+    right: 15px;
 }
 
 .f_c {
     color: #dddddd;
 }
 
-.f_nav-R {
-    text-align: end;
+.f_1 {
+    color: #333333;
+    font-size: 14.3px;
 }
+
+.f_2 {
+    color: #888888;
+    font-size: 13px;
+}
+
+.f_nav-R {
+    position: relative;
+    left: 10px;
+    top: 5px;
+    line-height: 1.3;
+    letter-spacing: -0.02em;
+}
+
+.f_nav-I {
+    position: relative;
+    right: 128px;
+}
+
+.f_nav-lo {
+    position: relative;
+    left: 68px;
+}
+
+.f_m-1 {
+    position: relative;
+    left: 120px;
+}
+
+.f_m-2 {
+    position: relative;
+    left: 150px;
+}
+
+.f_s-1 {
+    color: #111111;
+    padding: 0 15px 0 12px;
+    font-size: 16px;
+    letter-spacing: -1px;
+}
+
+.f_s-1:hover {
+    color: #111111;
+}
+
+.f_s-2 {
+    padding-left: 25px;
+}
+
+.f_s-3 {
+    position: relative;
+    right: 10px;
+}
+
+.f_s-4 {
+    position: relative;
+    right: 3px;
+}
+
+.f_input {
+    font-size: 13px;
+    background: none;
+    color: #888;
+    border: 0;
+    letter-spacing: -1px;
+    position: relative;
+    right: 10px;
+}
+
