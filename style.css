@@ -61,6 +61,10 @@ a {
     font-weight: 600;
 }
 
+.f_ul2:hover {
+    color: #666666;
+}
+
 .f_menu {
     height: 56px;
     background: #046fd9;
@@ -161,9 +165,13 @@ a {
 }
 
 .f_nav-btn2 {
-    margin-right: 200px;
+    margin-right: 100px;
 }
 
 .f_c {
     color: #dddddd;
+}
+
+.f_nav-R {
+    text-align: end;
 }
