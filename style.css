@@ -19,8 +19,11 @@ a {
 }
 
 .f_btn2 {
-    font-size: 13px;
     color: #111;
+    border: 0;
+    border-radius: 0 8px;
+    height: 24px;
+    line-height: 24px;
 }
 
 .f_nav-cont {
