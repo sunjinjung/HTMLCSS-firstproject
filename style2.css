@@ -247,3 +247,11 @@ a {
     right: 10px;
 }
 
+select {
+    -webkit-appearance:none;
+    border: none;
+    font-size: 13px;
+    color: #333333;
+    font-weight: 600;
+    padding-right: 5px;
+}
