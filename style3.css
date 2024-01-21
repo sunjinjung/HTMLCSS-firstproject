@@ -229,11 +229,12 @@ a {
 
 .f_s-3 {
     position: relative;
+    right: 10px;
 }
 
 .f_s-4 {
     position: relative;
-    left: 10px;
+    right: 3px;
 }
 
 .f_input {
@@ -256,7 +257,7 @@ select {
 }
 
 
-대욱님 거
+/* 대욱님 거 */
 
 
 body {
